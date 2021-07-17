@@ -2,7 +2,7 @@
     <div>
         <h1>{{ message }}</h1>
         <h2>{{ getHostname }}</h2>
-        <h2>{{ get }}</h2>
+        <h2>Hello this is ver 3.0</h2>
     </div>
 </template>
 
